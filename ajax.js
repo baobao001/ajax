@@ -4,5 +4,6 @@ function ajax(){
 	ajax.send();
 	ajax.onload = function(json){
 		console.log(json);
+		console.log('selina18');
 	}
 }
